@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 # Define the path where the files are located
-path = 'C:\\Users\\aurel\\Desktop\\Portfolio\\Data management projects\\Python data management example\\'
+path = 'yourpath\\Python data management example\\'
 
 
 # Read raw data files into DataFrames
