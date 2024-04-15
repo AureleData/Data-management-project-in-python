@@ -4,7 +4,7 @@ Data management project using Python
 
 ## Overview
 
-I played a crucial role in the larger project involving the migration and organization of data from an outdated statistical management system to a new statistical software system. While others handled data extraction and adjustments, my focus was on the reorganization of the data using Python.
+I played a crucial role in a larger project involving the migration and organization of data from an outdated statistical management system to a new statistical software system. While others handled data extraction and adjustments, my focus was on the reorganization of the data using Python.
 
 ## Objectives
 
