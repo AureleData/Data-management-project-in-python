@@ -14,5 +14,5 @@ I played a crucial role in the larger project involving the migration and organi
 2. **Data Adjustments:**
    - Another team implemented necessary adjustments to ensure compatibility with the new system.
 
-3. **Data Reorganization (My Contribution):**
-   - Utilized Excel to reorganize and structure the data for seamless integration into the new statistical software system.
+3. **Data Reorganization (My Contribution in this github page):**
+   - Utilized Excel to reorganize and structure the data for seamless integration into the new statistical software system (All the data have been modified for security reasons as they are confidentials).
